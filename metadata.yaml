@@ -1,0 +1,54 @@
+_repo: The-Old-Willow-Tree-and-Other-Stories_31167
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Lee, G. E.
+    gutenberg_agent_id: '35036'
+    url: http://www.gutenberg.org/2009/agents/35036
+  - agent_name: Jacobs, Helen
+    alias: Jacobs, Helen M.
+    birthdate: 1888
+    deathdate: 1970
+    gutenberg_agent_id: '35035'
+    url: http://www.gutenberg.org/2009/agents/35035
+  translator:
+    agent_name: Teixeira de Mattos, Alexander
+    aliases:
+    - Mattos, Alexander Teixera de
+    - De Mattos, Alexander Teixeira
+    - Teixeira de Mattos, Alexander Louis
+    - Mattos, Alexander Teixeira de
+    birthdate: 1865
+    deathdate: 1921
+    gutenberg_agent_id: '736'
+    url: http://www.gutenberg.org/2009/agents/736
+covers:
+- cover_type: archival
+  image_path: 31167-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Ewald, Carl
+    alias: Ewald, Karl
+    birthdate: 1856
+    deathdate: 1908
+    gutenberg_agent_id: '1711'
+    url: http://www.gutenberg.org/2009/agents/1711
+    wikipedia: http://en.wikipedia.org/wiki/Carl_Ewald
+description: ''
+gutenberg_issued: '2010-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31167'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcsh 'Nature -- Juvenile fiction'
+- !lcc 'PZ'
+tableOfContents: The old willow-tree -- The mistletoe -- The lilac-bush -- The beech
+  and the oak -- The weeds -- The anemones -- The wood and the heath -- Somewhere
+  in the wood -- The cousins.
+title: The Old Willow Tree, and Other Stories
+url: http://www.gutenberg.org/ebooks/31167
